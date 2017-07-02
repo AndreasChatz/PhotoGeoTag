@@ -1,0 +1,1229 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_8669d7b866d0ac038cadd6abcd4a8e23e4e79bf1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="04bbbddf868aa02dd33f9e90d8f5d908c360f638">
+        <dex dex="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-location-9.8.0_ba51f7bc3030cee6d7d7567948d441ac6a00812d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="190a642ba16d1421296a4d794606279b80039c59">
+        <dex dex="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-9.8.0_891056c2eda961ec52acc606504d83b6c04e416d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c81df6bd515398ebe45089b0b16c55752a131f6a">
+        <dex dex="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-nearby-9.8.0_62d8557f89931d076b057de985b4e5d0297a7eed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="20a3c4e355150c15c13dd58045d43ad0c717d916">
+        <dex dex="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-safetynet-9.8.0_d39108d6ebf06441ade10fca0b045463acd8051a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a1ed98e01bd58976d80c062fd0ea2968a1ff68a1">
+        <dex dex="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-base-9.8.0_324d986fbdc4d0e6d43de481e1098d59e7509802.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.0.0_4f19dfa433a6f570afc8656b437252c66db0aaef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-9.8.0_0d96bf234ce181ee520e8fce3f884cad3fe44bd6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f47ede9561595584dca71104baa0fecb36dda87">
+        <dex dex="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-connection-9.8.0_5aa0aae60414aa68987fe4e0a67c8bda07f02b8a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-instantapps\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00d358528c5a8731a6e19bca910cbb3fd755ee31">
+        <dex dex="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-instantapps-9.8.0_0aa7df2d8586a146217fc01a1117560bdd40510e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ca851be26ff89f5b32cc222cee98139fb3fac830">
+        <dex dex="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-9.8.0_e4c94bb1be789591c2924e9cda8329882dd49e24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a30aea7df545072ad3c06f56b2efc13e67222140">
+        <dex dex="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-vision-9.8.0_5c627350117e8e3163f0fdf2880ab72fa1d1f052.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-9.8.0_458451d159dbc1e8c4f08e00dee5718ff079ca0a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a7a04d6b7c01e569a285fa627cf64f5b05295906">
+        <dex dex="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-fitness-9.8.0_bdd53868401bd36217504fd9e1af44473d9a6168.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.0_c3bc3111f683b20ee33dd9e931eea80d71c91f63.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ec9104b53aee77dfcfd2fe1c4add23ff7c4df55f">
+        <dex dex="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-storage-common-9.8.0_5f3f416d275fa7d7c35b6eceefc1d4d6e059a323.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="85299bf1924dde0200109a58033c5ef84ecb6991">
+        <dex dex="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-iid-9.8.0_e519655550adacf1c1227960f5956c4dd2cc683d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="910c013c511f752c4bbe24c5f492f669f4a3ccc0">
+        <dex dex="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wallet-9.8.0_87555dbe747dfa7b337a7fa3361aa2e3c71c5423.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.0.0_4f19dfa433a6f570afc8656b437252c66db0aaef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a972970c8beddb69c198f61f3fc55f0606a7dfe3">
+        <dex dex="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tagmanager-9.8.0_489455009b95ef7d069dd5ad3878b3eba94fa0c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e56f31b23ddb067f95f01255295167db7c798612">
+        <dex dex="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appinvite-9.8.0_14d93d417f9de86a88b87d1ea3164e5ff789628b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="20a3c4e355150c15c13dd58045d43ad0c717d916">
+        <dex dex="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-safetynet-9.8.0_d39108d6ebf06441ade10fca0b045463acd8051a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c81df6bd515398ebe45089b0b16c55752a131f6a">
+        <dex dex="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-nearby-9.8.0_62d8557f89931d076b057de985b4e5d0297a7eed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="122ec9237acd8a57d974b9d529987f1ee6ca5aea">
+        <dex dex="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-maps-9.8.0_b5012699347e4da98f5ba6929962b1b3a6073420.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-awareness\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a2537b11ae24b42172d34e2a613fc0b903c56158">
+        <dex dex="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-awareness-9.8.0_df2d144746269dbbc9f0fa88668cc5b90459dba2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-9.8.0_0d96bf234ce181ee520e8fce3f884cad3fe44bd6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_f09911dbd6d04e8fe4cf6808e859974652f0b2b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f47ede9561595584dca71104baa0fecb36dda87">
+        <dex dex="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-connection-9.8.0_5aa0aae60414aa68987fe4e0a67c8bda07f02b8a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a30aea7df545072ad3c06f56b2efc13e67222140">
+        <dex dex="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-vision-9.8.0_5c627350117e8e3163f0fdf2880ab72fa1d1f052.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-awareness\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a2537b11ae24b42172d34e2a613fc0b903c56158">
+        <dex dex="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-awareness-9.8.0_df2d144746269dbbc9f0fa88668cc5b90459dba2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbb3885c40e431cd2b0dc69c0cab2bf6d5da7b43">
+        <dex dex="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-games-9.8.0_794809ad3c4950a98dddaa39a25ad6a0c05f9386.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_8669d7b866d0ac038cadd6abcd4a8e23e4e79bf1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a972970c8beddb69c198f61f3fc55f0606a7dfe3">
+        <dex dex="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tagmanager-9.8.0_489455009b95ef7d069dd5ad3878b3eba94fa0c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7fd91ec2730fdaa82906aad32a3f3d3e574bae56">
+        <dex dex="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-storage-9.8.0_d39b288a3dc37f43eec6ac9a3e0950f62aeda342.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="910c013c511f752c4bbe24c5f492f669f4a3ccc0">
+        <dex dex="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wallet-9.8.0_87555dbe747dfa7b337a7fa3361aa2e3c71c5423.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="190a642ba16d1421296a4d794606279b80039c59">
+        <dex dex="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-9.8.0_891056c2eda961ec52acc606504d83b6c04e416d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.0_c3bc3111f683b20ee33dd9e931eea80d71c91f63.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="74ac7cbcf0de4a88e59612dc3a9e3f9e71acb4ca">
+        <dex dex="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-cast-9.8.0_c21d060819d59c4e78bcf437dbcbe5a8cba4d3ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="16afe57c1d7f8165d107c7806ce7b0c71de87159">
+        <dex dex="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-analytics-9.8.0_475a4d6f06e230f0a083d700e8564abf9b00a7d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4438b1a7848a7c571122ba618aa1304514aabee6">
+        <dex dex="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-common-9.8.0_ea6e54f63d8d75a3a3be8efa81c12212f774cf5a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.0_d727d23feb460409c60b0c9962ef39cde0c366f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0b8e087da59c0b062c33f49a335e59f907086da2">
+        <dex dex="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wearable-9.8.0_8efb29610452f75e59aaa324278725bac4fb22cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="122ec9237acd8a57d974b9d529987f1ee6ca5aea">
+        <dex dex="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-maps-9.8.0_b5012699347e4da98f5ba6929962b1b3a6073420.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2d3035050a075484cbf2e33f1ce1f779bae4d451">
+        <dex dex="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-panorama-9.8.0_72530169d5e55a2c1361aef5076c8ff92059b2f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.0.0_1b978077e2dec74f6bf234a31a5d96c205bffe2e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="50e35ae101a679c4c8ef3dda075b1df9d5d947d9">
+        <dex dex="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-analytics-impl-9.8.0_e391cf11380ad935b8e69a4b5ab237b01215d4ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0_ebfbcf5e02505d4415ba0706303ff4a7c72a8f2e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="363a20f1d25336e827dd24020f2ecdc42d62638f">
+        <dex dex="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gass-9.8.0_71c06b704312aa9215fdf48a94078c8f8cd38b8d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3f8f779a22cbb4c4d0759467a4f1011bb5252970">
+        <dex dex="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-module-9.8.0_65940635cbe91acb84e9b294add7b2dc451303e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6b6f292b8b951dcf2ecf2b20853e3eabc7d65c48">
+        <dex dex="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-9.8.0_8ae504ca5a4ea06f8934d894ce77fb09e9922d23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_1d6b231d8e27caaff0ee45765cabc28149dd0ff5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0b8e087da59c0b062c33f49a335e59f907086da2">
+        <dex dex="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wearable-9.8.0_8efb29610452f75e59aaa324278725bac4fb22cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-9.8.0_582dcaeb2529beee48cc1de67ca78641348cff2e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-9.8.0_582dcaeb2529beee48cc1de67ca78641348cff2e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_f09911dbd6d04e8fe4cf6808e859974652f0b2b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2d3035050a075484cbf2e33f1ce1f779bae4d451">
+        <dex dex="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-panorama-9.8.0_72530169d5e55a2c1361aef5076c8ff92059b2f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="50e35ae101a679c4c8ef3dda075b1df9d5d947d9">
+        <dex dex="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-analytics-impl-9.8.0_e391cf11380ad935b8e69a4b5ab237b01215d4ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_ac02683fbe93d500668160aeb746e760b63a220f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ec9104b53aee77dfcfd2fe1c4add23ff7c4df55f">
+        <dex dex="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-storage-common-9.8.0_5f3f416d275fa7d7c35b6eceefc1d4d6e059a323.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a1ed98e01bd58976d80c062fd0ea2968a1ff68a1">
+        <dex dex="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-base-9.8.0_324d986fbdc4d0e6d43de481e1098d59e7509802.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="85299bf1924dde0200109a58033c5ef84ecb6991">
+        <dex dex="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-iid-9.8.0_e519655550adacf1c1227960f5956c4dd2cc683d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3f8f779a22cbb4c4d0759467a4f1011bb5252970">
+        <dex dex="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-module-9.8.0_65940635cbe91acb84e9b294add7b2dc451303e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="04bbbddf868aa02dd33f9e90d8f5d908c360f638">
+        <dex dex="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-location-9.8.0_ba51f7bc3030cee6d7d7567948d441ac6a00812d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6b6f292b8b951dcf2ecf2b20853e3eabc7d65c48">
+        <dex dex="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-9.8.0_8ae504ca5a4ea06f8934d894ce77fb09e9922d23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="363a20f1d25336e827dd24020f2ecdc42d62638f">
+        <dex dex="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gass-9.8.0_71c06b704312aa9215fdf48a94078c8f8cd38b8d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c9d04c580bc37c84c700c4b163e31b79dc394e27">
+        <dex dex="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_7786e99d04f32745fc9dba3c7f11e0bb74613a8f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cef85cfc7df40e29fbea58844dd4c1e7d0b15542">
+        <dex dex="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-identity-9.8.0_ceb0c4bb0079e3c4926f72fedb0f4155aabedf70.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0b53c4b90654b67ee3892a8e2e7b819c083ab7a6">
+        <dex dex="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-drive-9.8.0_78621fd289f399259f6c1337b72da4cd829edb1c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3daa7a9c9009fd386872a84c177a76979bdcafd6">
+        <dex dex="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-plus-9.8.0_4bfd53526bd6018145b0154e2eed929b5fd0ccba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_1d6b231d8e27caaff0ee45765cabc28149dd0ff5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.0.0_2f76ad0afa725678042ed7b52652cb8de12a7558.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="289cad663c288ce965463cb9ece8b35cc7de0fac">
+        <dex dex="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-config-9.8.0_5285b407f9b54137e175ba0ac544efe32cc35921.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.0_49c064e9351181264093f943431db2a1e78b67a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.0_49c064e9351181264093f943431db2a1e78b67a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.0_5e740323459870a111ca57a854b9403b025541ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="266570862e5792ef3c51143a8b8593cf54fac68d">
+        <dex dex="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tagmanager-api-9.8.0_b856bb1ebd02e1bceaa49f71342e4b1da574daf5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.0.0_8a746fd46892fae68e5c1a817403fbbe2b56c0d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_a3e848bab17e67e42332ffc5395282a827b6633e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.0.0_6560e030a8e4f7e05084a66b034b9a2098a21937.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0b53c4b90654b67ee3892a8e2e7b819c083ab7a6">
+        <dex dex="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-drive-9.8.0_78621fd289f399259f6c1337b72da4cd829edb1c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="03df48d3713661d66ad024b1e406259a4c26fcac">
+        <dex dex="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-9.8.0_a142bf1c0056ef647904325946a6958a426ed681.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_ac02683fbe93d500668160aeb746e760b63a220f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-9.8.0_178c9d5166ca0d4eab02bd551bc385a9878f54da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2d240dd085626f03f759c41d628a0c8b63e491f">
+        <dex dex="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-9.8.0_97c0d14cb2b1efc350f5b98193b1427d638c7cf5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e9b2cfdfd59b03643f1e240668275378b96615a8">
+        <dex dex="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-lite-9.8.0_2b2b6fecc0a274d258b455f2558b62fad52d5762.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5304fd374e0b4ebf6b42d4037fbfb2c5336511">
+        <dex dex="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-clearcut-9.8.0_4b3f8b5830d7337418a41890f15ecd22b3d2d0b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.0_d727d23feb460409c60b0c9962ef39cde0c366f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4438b1a7848a7c571122ba618aa1304514aabee6">
+        <dex dex="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-common-9.8.0_ea6e54f63d8d75a3a3be8efa81c12212f774cf5a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3daa7a9c9009fd386872a84c177a76979bdcafd6">
+        <dex dex="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-plus-9.8.0_4bfd53526bd6018145b0154e2eed929b5fd0ccba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cef85cfc7df40e29fbea58844dd4c1e7d0b15542">
+        <dex dex="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-identity-9.8.0_ceb0c4bb0079e3c4926f72fedb0f4155aabedf70.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="74ac7cbcf0de4a88e59612dc3a9e3f9e71acb4ca">
+        <dex dex="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-cast-9.8.0_c21d060819d59c4e78bcf437dbcbe5a8cba4d3ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="15e59454416c6341bd3ed2533b585cd340682dd1">
+        <dex dex="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-9.8.0_b3aa218d661ebf152b3b6d1e9ef1c06efe45a860.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9ff04cc3470178a44512624036751a803418c2ca">
+        <dex dex="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-9.8.0_fea786da6a1178ffc37b98e51873321321c734f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="266570862e5792ef3c51143a8b8593cf54fac68d">
+        <dex dex="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tagmanager-api-9.8.0_b856bb1ebd02e1bceaa49f71342e4b1da574daf5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="16afe57c1d7f8165d107c7806ce7b0c71de87159">
+        <dex dex="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-analytics-9.8.0_475a4d6f06e230f0a083d700e8564abf9b00a7d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\pre-dexed\debug\com.android.support-mediarouter-v7-24.0.0_e4ffa6c3d575d70de98156b0f6196bf1457987ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0_ebfbcf5e02505d4415ba0706303ff4a7c72a8f2e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.0.0_1b978077e2dec74f6bf234a31a5d96c205bffe2e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.0_5e740323459870a111ca57a854b9403b025541ec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.0.0_6560e030a8e4f7e05084a66b034b9a2098a21937.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="03df48d3713661d66ad024b1e406259a4c26fcac">
+        <dex dex="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-9.8.0_a142bf1c0056ef647904325946a6958a426ed681.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\pre-dexed\debug\com.android.support-mediarouter-v7-24.0.0_e4ffa6c3d575d70de98156b0f6196bf1457987ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="15e59454416c6341bd3ed2533b585cd340682dd1">
+        <dex dex="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-9.8.0_b3aa218d661ebf152b3b6d1e9ef1c06efe45a860.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.0.0_8a746fd46892fae68e5c1a817403fbbe2b56c0d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-9.8.0_178c9d5166ca0d4eab02bd551bc385a9878f54da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9ff04cc3470178a44512624036751a803418c2ca">
+        <dex dex="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-9.8.0_fea786da6a1178ffc37b98e51873321321c734f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e9b2cfdfd59b03643f1e240668275378b96615a8">
+        <dex dex="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-lite-9.8.0_2b2b6fecc0a274d258b455f2558b62fad52d5762.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2d240dd085626f03f759c41d628a0c8b63e491f">
+        <dex dex="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-9.8.0_97c0d14cb2b1efc350f5b98193b1427d638c7cf5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b4671be3d1288bf4e5f527cd33e42909fbe4ecc6">
+        <dex dex="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-crash-9.8.0_135b957a78cc9ed0a924c83e9b464bc4b08f58a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b4671be3d1288bf4e5f527cd33e42909fbe4ecc6">
+        <dex dex="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-crash-9.8.0_135b957a78cc9ed0a924c83e9b464bc4b08f58a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9dae58326f6f6a515022468cce56dd04ec3b9fdb">
+        <dex dex="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gcm-9.8.0_c4aaa234481f02433fd9961a9e517ee824571b62.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\exploded-aar\com.android.support\palette-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\pre-dexed\debug\com.android.support-palette-v7-24.0.0_503f717a93c9ae677f4904dc51900ba867040c2a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5ffe8867f51cfc726e9fb21db1e5b6962ebf25a0">
+        <dex dex="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-messaging-9.8.0_544b8a84d716b1ff9528851b37ab96a9d457918c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="055eed08c9cff50cac0db69c74c4d9ff7aef3d84">
+        <dex dex="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-cast-framework-9.8.0_521c7b4ff7ce316ed3a331eba5549d96813b9aea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e56f31b23ddb067f95f01255295167db7c798612">
+        <dex dex="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appinvite-9.8.0_14d93d417f9de86a88b87d1ea3164e5ff789628b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="679251204de40ace98776a6f4e3a649c27e3d89f">
+        <dex dex="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-places-9.8.0_eb2a4c6f3944f8ac1716b03c1d59e3622c397aaa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5ffe8867f51cfc726e9fb21db1e5b6962ebf25a0">
+        <dex dex="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-messaging-9.8.0_544b8a84d716b1ff9528851b37ab96a9d457918c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e3234cd25e23069abd48ecd2117bc0e8011bf45a">
+        <dex dex="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-9.8.0_412c89730daec30f3e044e501b10cc1b1ed913a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6f390d6e0197fa3ac72d4210f551c020d6b11fee">
+        <dex dex="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\pre-dexed\debug\instant-run_5f6e03e5605b54579b344c70f9db0a70d8d31094.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7fd91ec2730fdaa82906aad32a3f3d3e574bae56">
+        <dex dex="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-storage-9.8.0_d39b288a3dc37f43eec6ac9a3e0950f62aeda342.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.0_acc68e6505ec25be97c65388f4e112db92c065c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbb3885c40e431cd2b0dc69c0cab2bf6d5da7b43">
+        <dex dex="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-games-9.8.0_794809ad3c4950a98dddaa39a25ad6a0c05f9386.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-instantapps\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="00d358528c5a8731a6e19bca910cbb3fd755ee31">
+        <dex dex="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-instantapps-9.8.0_0aa7df2d8586a146217fc01a1117560bdd40510e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.0.0_2f76ad0afa725678042ed7b52652cb8de12a7558.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9dae58326f6f6a515022468cce56dd04ec3b9fdb">
+        <dex dex="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gcm-9.8.0_c4aaa234481f02433fd9961a9e517ee824571b62.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\exploded-aar\com.android.support\palette-v7\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\pre-dexed\debug\com.android.support-palette-v7-24.0.0_503f717a93c9ae677f4904dc51900ba867040c2a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="289cad663c288ce965463cb9ece8b35cc7de0fac">
+        <dex dex="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-config-9.8.0_5285b407f9b54137e175ba0ac544efe32cc35921.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="055eed08c9cff50cac0db69c74c4d9ff7aef3d84">
+        <dex dex="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-cast-framework-9.8.0_521c7b4ff7ce316ed3a331eba5549d96813b9aea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ca851be26ff89f5b32cc222cee98139fb3fac830">
+        <dex dex="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-9.8.0_e4c94bb1be789591c2924e9cda8329882dd49e24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="679251204de40ace98776a6f4e3a649c27e3d89f">
+        <dex dex="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-places-9.8.0_eb2a4c6f3944f8ac1716b03c1d59e3622c397aaa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.0_acc68e6505ec25be97c65388f4e112db92c065c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e3234cd25e23069abd48ecd2117bc0e8011bf45a">
+        <dex dex="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-9.8.0_412c89730daec30f3e044e501b10cc1b1ed913a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_a3e848bab17e67e42332ffc5395282a827b6633e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\9.8.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a7a04d6b7c01e569a285fa627cf64f5b05295906">
+        <dex dex="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-fitness-9.8.0_bdd53868401bd36217504fd9e1af44473d9a6168.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-9.8.0_458451d159dbc1e8c4f08e00dee5718ff079ca0a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5304fd374e0b4ebf6b42d4037fbfb2c5336511">
+        <dex dex="C:\Users\AC-DC\StudioProjects\PhotoGeoTag v3.02\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-clearcut-9.8.0_4b3f8b5830d7337418a41890f15ecd22b3d2d0b3.jar" />
+    </item>
+
+</items>

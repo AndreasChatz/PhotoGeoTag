@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ProsthikiPhotoStinGallery">The photo was added to gallery.</string>
+    <string name="TagAPerson">Tag a person</string>
+    <string name="Topotheias">"Location: "</string>
+    <string name="action_settings">Settings</string>
+    <string name="adinamiaDimiourgiasArxiou">Could not create file.</string>
+    <string name="adinamiaDimiourgiasArxiouEikonas">Could not create image file.</string>
+    <string name="akirosi">Cancel</string>
+    <string name="akirosiEpilogisEikonas">Cancel selection image.</string>
+    <string name="akirosiPhotografisis">Photoshoot canceled</string>
+    <string name="app_name">PhotoGeoTag</string>
+    <string name="applyFilters">Apply filters</string>
+    <string name="arthro">""</string>
+    <string name="chooseLocation">Choose location</string>
+    <string name="choosePerson">Choose person</string>
+    <string name="deleteDB">Delete Database</string>
+    <string name="denVerethikeTopothesia">Location not found.</string>
+    <string name="denYparxounPhotoMeAutaTaStixeia">No pictures with these elements.</string>
+    <string name="diagrafiVasis">The database has been deleted.</string>
+    <string name="epelekseOnomaKaiTopothesia">Choose name and location</string>
+    <string name="epelekseTopothesia">Choose location</string>
+    <string name="epilexthike">" selected"</string>
+    <string name="findMe">Find me</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="idiProstetheiOnomata">The names already have been added.</string>
+    <string name="metron">" meters"</string>
+    <string name="photoPreview">Photo preview</string>
+    <string name="sfalmaProsthikisStinGallery">Error while adding image to the gallery.</string>
+    <string name="showInGoogleMaps">Show in Google Maps</string>
+    <string name="takeAPicture">Take a picture</string>
+    <string name="takenHere">Taken here.</string>
+    <string name="title_activity_face_detection">FaceDetection</string>
+    <string name="title_activity_full_preview">FullPreview</string>
+    <string name="title_activity_map_preview">MapPreviewActivity</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_preview">PreviewActivity</string>
+    <string name="title_activity_select_filters">SelectFilters</string>
+    <string name="vrethikeMeAkrivia">"The location have been found with accuracy of "</string>
+    <string name="vrisketeStinPhoto">" is in the photo"</string>
+</resources>

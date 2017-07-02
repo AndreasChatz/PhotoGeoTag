@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\AC-DC\\StudioProjects\\PhotoGeoTag v3.02\\app\\build\\intermediates\\res\\merged\\debug\\menu\\fase_detection.xml",
+        "source": "C:\\Users\\AC-DC\\StudioProjects\\PhotoGeoTag v3.02\\app\\src\\main\\res\\menu\\fase_detection.xml"
+    },
+    {
+        "merged": "C:\\Users\\AC-DC\\StudioProjects\\PhotoGeoTag v3.02\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\AC-DC\\StudioProjects\\PhotoGeoTag v3.02\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\AC-DC\\StudioProjects\\PhotoGeoTag v3.02\\app\\build\\intermediates\\res\\merged\\debug\\menu\\preview.xml",
+        "source": "C:\\Users\\AC-DC\\StudioProjects\\PhotoGeoTag v3.02\\app\\src\\main\\res\\menu\\preview.xml"
+    },
+    {
+        "merged": "C:\\Users\\AC-DC\\StudioProjects\\PhotoGeoTag v3.02\\app\\build\\intermediates\\res\\merged\\debug\\menu\\select_filters.xml",
+        "source": "C:\\Users\\AC-DC\\StudioProjects\\PhotoGeoTag v3.02\\app\\src\\main\\res\\menu\\select_filters.xml"
+    },
+    {
+        "merged": "C:\\Users\\AC-DC\\StudioProjects\\PhotoGeoTag v3.02\\app\\build\\intermediates\\res\\merged\\debug\\menu\\face_detection.xml",
+        "source": "C:\\Users\\AC-DC\\StudioProjects\\PhotoGeoTag v3.02\\app\\src\\main\\res\\menu\\face_detection.xml"
+    },
+    {
+        "merged": "C:\\Users\\AC-DC\\StudioProjects\\PhotoGeoTag v3.02\\app\\build\\intermediates\\res\\merged\\debug\\menu\\map_preview.xml",
+        "source": "C:\\Users\\AC-DC\\StudioProjects\\PhotoGeoTag v3.02\\app\\src\\main\\res\\menu\\map_preview.xml"
+    },
+    {
+        "merged": "C:\\Users\\AC-DC\\StudioProjects\\PhotoGeoTag v3.02\\app\\build\\intermediates\\res\\merged\\debug\\menu\\full_preview.xml",
+        "source": "C:\\Users\\AC-DC\\StudioProjects\\PhotoGeoTag v3.02\\app\\src\\main\\res\\menu\\full_preview.xml"
+    }
+]
